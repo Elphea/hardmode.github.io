@@ -1,0 +1,4 @@
+https://elphea.github.io/hardmode.github.io/HardmodeTile1.png;
+https://elphea.github.io/hardmode.github.io/HardmodeTile2.png;
+https://elphea.github.io/hardmode.github.io/HardmodeTile3.png;
+https://elphea.github.io/hardmode.github.io/HardmodeTile4.png
